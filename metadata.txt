@@ -1,0 +1,328 @@
+0 0.070126038867 search main parent cornell skip university library content catalog directory home cul
+1 0.0405658833583 content skip about main us
+2 0.00256245412241 area staff skip who list library selectors content materials contact librarians specialists main select subject
+3 0.000995976724912 content skip main collections
+4 0.00558737575205 strengths skip collection content collections library overview main
+5 0.000604870551488 content skip main collections special
+6 0.00181027022268 initiatives & skip content main partnerships
+7 0.00350189747573 content skip inside main library
+8 0.00199259061747 content skip main central departments
+9 0.000629141237481 skip loan content interlibrary services main
+10 0.00197706061676 content skip main purpose history
+11 0.00255726009135 libraries individual skip list library indvidual content contact main unit
+12 0.00195476294063 content skip main public policies
+13 0.00197706061676 content skip main publications library
+14 0.00197706061676 content skip main plan strategic
+15 0.000606275906946 2 4. 1. main skip 1 3 content 3. licenses clauses 2. nondisclosure 4
+16 0.00049706357907 content skip main
+17 0.0004992055514 content skip main
+18 0.0004992055514 content skip main
+19 0.0004992055514 content skip main
+20 0.000746723817638 received recently skip content grants main
+21 0.000752160628451 content skip main staff
+22 0.00184486165287 dean weissman executive rieger library cartmill krafft leblanc lee saylor group jim xin li content edward skip anne john oya janet main mccue kenney
+23 0.00195261774715 1 ‹ skip « content directory previous main staff
+24 0.000681194897535 ‹ skip › next content 2 main previous
+25 0.000681194897535 ‹ skip › next content 3 main previous
+26 0.000681194897535 last skip › next content 4 main »
+27 0.00187908278435 content skip university more... librarian main
+28 0.000607659934735 content skip main selected publications
+29 0.00589335839507 information skip content visitors visitor main
+30 0.0021343946543 content skip main addresses
+31 0.00244329789454 visitor privileges content visitors skip main
+32 0.00109134885999 http://www.library.cornell.edu/aboutus/visit/priv/guest guest eligibility skip content borrower fees main
+33 0.00240948364445 cornell skip medical weill content visitors college main
+34 0.0405658833583 box text-only search skip library content alternative main page
+35 0.000493575413603 content skip main
+36 0.000468896642922
+37 0.000815472422474 resources links
+38 0.00809356379305 employment
+39 0.000468896642922
+40 0.00342463610662 http://www.library.cornell.edu/africana clarke henrik library find: africana john
+41 0.00769034011436 print inside page library
+42 0.00144871966174 development collection print collections library policy africana page
+43 0.0013084353199 clarke henrik library print africana john page history
+44 0.00769034011436 library contact print staff page information/contact/maps/directions
+45 0.00113413042539 life people library black print page
+46 0.00141241818715 print africana mission library page
+47 0.00807328202419 origin cloth history, mud significance print page
+48 0.0010122322604 print audio cassette page collection
+49 0.0010122322604 print cd-rom page collection
+50 0.00769034011436 henrikclarke clarke henrik dr. print john page
+51 0.00769034011436 print page collection
+52 0.0010122322604 print texts page historical digital
+53 0.00117566761453 library class print africana guides page
+54 0.00104973533467 print africana page library
+55 0.00110779133081 print friends page library
+56 0.00772940201856 print africana page guides subject
+57 0.000984079580597 cultural african print america survivals page
+58 0.000984079580597 print page afrocentricity
+59 0.000984079580597 africa: general print specialized page resources
+60 0.000984079580597 print page
+61 0.000984079580597 schools independent print black page
+62 0.000984079580597 print page
+63 0.000971250322261 african internet print studies page resources
+64 0.000984079580597 african american internet print studies page resources
+65 0.000752344241018 print page http://www.library.cornell.edu/africana/library.html
+66 0.0010122322604 print page collection microform
+67 0.000693735264117 print books page
+68 0.000584619254586 print videos/dvds books page
+69 0.000999035980936 newspaper print page collection
+70 0.000732843902908 print newspapers internet page african
+71 0.00102972001287 back periodical top print collection c b e d g f i h j m l o n p s r u t w v z page
+72 0.00121710679413 introduction graduate theses print africana page
+73 0.000682617117741 author browse print c b e d g f h k j m l o n p s r t w z page
+74 0.000682617117741 browse date print page degree
+75 0.000610089048981 arts/performance image nomenclature topic communication/media acting/drama politics education technology film caribbean publishing browse nationalism racism sports religion indian music biography print health body literature york identity women/gender ithaca, university slavery experience cornell american race african military studies page black
+76 0.0010122322604 print page collection video/dvd
+77 0.0030938371699 annex skip library content http://www.library.cornell.edu/annex main
+78 0.000897235635202 form annex skip request library content visitor main
+79 0.000501700111769 content skip main
+80 0.000667417562366 large skip content shifts collections main
+81 0.000887199262917 content skip main overview facilities
+82 0.000887199262917 content skip main history
+83 0.000534907629153 project annex skip expansion content library main
+84 0.000520015193647 content skip main version long
+85 0.000524865815481 content skip main project personnel
+86 0.000524865815481 about publicity skip content libraryannex main
+87 0.000520015193647 content skip main version short
+88 0.00053869498013 content selection (1996) annex skip move library project planning moving goals background scope services strategies main physical
+89 0.000563106749228 planning information annex skip project contact committee team content main
+90 0.00052628823101 & skip answers content questions main
+91 0.000629597233832 content skip main policies
+92 0.000667417562366 content skip main procedures
+93 0.000767664644989 services skip main content
+94 0.000625940659798 content skip hours directory main staff
+95 0.00195283680128 delivery requests: annex skip request library campus content how book instructions requests here! main click page
+96 0.000623778721749 content skip main faqs staff
+97 0.00859685671078 librarian! skip content librarian. ask librarian main
+98 0.00096161425679 privacy skip content chat main your
+99 0.00307311007133 skip us content e-mail contact librarian main
+100 0.00140868431129 skip us content phone individual library main
+101 0.000800896723182 management skip citation question send content contact us main your
+102 0.000468896642922
+103 0.00054317294409 cdafrica.html africa cd african policy sub-saharan studies
+104 0.000489566128227 american cdamericanhistory.html history
+105 0.000489566128227 ancient cdancienthistory.html history
+106 0.000489566128227 anglo-american comparative literature cdangloamerican.html &
+107 0.000489566128227 anthropology cdanthro.html
+108 0.000489566128227 cdarchaeology.html archaeology
+109 0.000851419353438 astronomy cdastronomy.html
+110 0.000489566128227 science cdbibliography.html bibliography information
+111 0.000489566128227 commonwealth cdbritishhistory.html british history
+112 0.000851419353438 (1) cdchemistry.html chemistry return 2.2
+113 0.000851419353438 cdciser.html ciser data archive
+114 0.000489566128227 cdclassics.html classics
+115 0.000489566128227 development about cornell university library cddescript1.html collection
+116 0.000489566128227 southeast studies asian cdechols.html
+117 0.000851419353438 economics, & sociology cdeconomics.html government
+118 0.000851419353438 sciences social cdeurope.html western european
+119 0.00111906978966 arts cdfinearts.html art architecture fine landscape
+120 0.000851419353438 literature language & french cdfrench.html italian
+121 0.000489566128227 cdfrenchhistory.html french history
+122 0.000489566128227 history cdgeneralhistory.html general
+123 0.000489566128227 cdgeography.html geography
+124 0.000489566128227 cdhistoryofscience.html science history
+125 0.000786395465054 return top collection subjects cdhome1.html policies
+126 0.000489566128227 labor industrial cdi&lr.html relations &
+127 0.000489566128227 history cdiberianhistory.html iberian
+128 0.000851419353438 cdiberianlanguage.html & literature language iberian
+129 0.000489566128227 cdicelandic.html icelandic collection fiske
+130 0.000489566128227 cditalianhistory.html history italian
+131 0.000489566128227 cdjapan.html studies japanese
+132 0.000489566128227 jewish cdjewishstudies.html studies
+133 0.000851419353438 cdjgsm.html management school johnson
+134 0.000489566128227 american latin studies cdlatinamerica.html
+135 0.000489566128227 cdlinguistics.html linguisitcs
+136 0.000851419353438 cdmaps.html materials cartographic
+137 0.000851419353438 mathematics cdmath.html
+138 0.000489566128227 studies medieval cdmedieval.html
+139 0.000643465129052 dance music cdmusic.html
+140 0.000489566128227 american cdnorthamericannewspapers.html north newspapers
+141 0.000489566128227 history cdnortheuropeanhistory.html north european
+142 0.000489566128227 literature north language & cdnortheuropeanlit.html european
+143 0.000489566128227 cdnumismatics.html numismatics
+144 0.000489566128227 philosophy cdphilosophy.html
+145 0.000851419353438 physics cdphysics.html
+146 0.000851419353438 cdpsychology.html psychology
+147 0.000851419353438 religion cdreligion.html
+148 0.000489566128227 slavic cdslavic.html & east studies european
+149 0.000489566128227 studies asian south cdsouthasia.html
+150 0.00121327257865 collecting levels: used terms cdterms1.html language & abbreviations describe levels collection symbols codes key definitions
+151 0.000851419353438 cdwomensstudies.html womens studies
+152 0.000489566128227 gifts giftpolicy.html books materials
+153 0.000837828146397 collecting major coverage back symbols middle table (literature contents lc & holdings current east/islam policy east evaluation used description rlg [acronyms conspectus number symbols] islamic levels purpose acronyms using class about countries country evaluated listed) studies
+154 0.0033137571938 access publication cornell skip (coap) content fund overview main open
+155 0.0405658833583 help skip content course reserves main
+156 0.0405658833583 content skip main help
+157 0.00243130085644 content skip main
+158 0.000501700111769 content skip main
+159 0.00240388017009 content skip main
+160 0.00312597761948 content skip
+161 0.000501700111769 content skip main
+162 0.000495204375364 skip fine arts management & top veterinary mss content music mathematics main uris entomology geneva adelson hotel annex africana law kroch-asia kroch-rare olin ilr mann
+163 0.000495204375364 skip fine arts management & top veterinary mss content music mathematics main uris entomology geneva adelson hotel annex africana law kroch-asia kroch-rare olin ilr mann
+164 0.00407224267011 home arts fine library http://www.library.cornell.edu/finearts
+165 0.00167625816647 apply job student
+166 0.00167625816647 circulation
+167 0.00167625816647 reserve
+168 0.00167625816647 collections
+169 0.00167625816647 hesitate contacts call don't
+170 0.00167625816647 equipment cage
+171 0.00182003672082 planning city arts art library photography regional preservation museums historic architecture internet fine image resources history
+172 0.00167625816647 laptop program loan
+173 0.00167625816647 just don't able obtain years course professor's through periodicals, questions go thesis. venda fine find libraries submit title cornell had fair. should here charge does under net-print oversize it. do his return get read assistant material found? famous ago? made know tour? direct? difference like gray name lost list borrow specific ship, found where available work says requested doing some back library books design stacks. advertise catalog, out before, what unbound / research looking behind periodical, between appeal locate database never scanner, book. job taught architectural graduated article wait received about picture? my study renew place here. think can't periodicals loan buildings? list. for? long apply why? arts computer working & copies been due? program card? call book? event? friend flat on. work? search direct boards? recalled account? trying me dog, graphic bill up project reactivate to. learn video online. etc. this? history journal. would process request am journal? images want need seem check garden. information website? job, no database, make when access campus how book do? you several doesn't material? picture buildings faq plans number. blackboard charged, collection read. order? catalog interlibrary student class it? i dvd library? overnight library. looked provide without used order reserve
+174 0.00167625816647 purchase book request
+175 0.0020340280996 arts fine reference library
+176 0.00167625816647 guides stack location
+177 0.000678581393908 started skip main content get
+178 0.0409192944409 map main room skip visit library hours maps us content reading
+179 0.00060175069175 contact
+180 0.000530183554673 offices list locations
+181 0.00104652294217 reference loan back overdues choosing renewals unit damaged contacts notification top dissertations someone returning eligibility material processing else interlibrary proxy direct? – lost ill renewal borrow departments requesting policies requests assistance photocopy
+182 0.000468896642922
+183 0.0405658833583 content skip main home
+184 0.000631110596982 content skip main libraries map
+185 0.0417732448818 account skip content main my http://www.library.cornell.edu/myacct
+186 0.000490547666007 library annex
+187 0.000669182511966 information use, disclosure, protection skip collection, library content practices maintenance main personally-identifiable
+188 0.00131886887297 cornell university collection conservation preservation maintenance department library
+189 0.000871614916444 characteristics open www.library.cornell.edu/preservation/com/comfin.html findings scan process text reduction resolution no. 19 cost recommendation cornell's summary quality film size 24 25 26 27 20 21 22 density introduction 23 hybrid 29 1 3 2 5 4 7 6 finding 8 yale approach acknowledgments 28 recommendations: return bibliographic digital conversion microfilm 9 background ratio table yale’s 11 10 13 12 15 14 17 16 33 32 31 30 34 project cornell 18 studies book
+190 0.000468896642922
+191 0.000842576156932
+192 0.0026296435664 confidentiality privacy cornell skip university library content main
+193 0.000501700111769 content skip main
+194 0.00312597761948
+195 0.0407480626356 skip request content items requests main
+196 0.00684526802091 instructors form skip instruction library content filling faculty requests main class out
+197 0.000818008859952 content skip main request
+198 0.000501700111769 content skip main
+199 0.0405658833583 help skip research content main pages
+200 0.000562503454923 content skip citing main sources
+201 0.00107852111713 bibliography annotated how-to skip content main tutorial
+202 0.00592165601051 management endnote skip citation content refworks software: main
+203 0.0011907058212 style apa skip citation content main
+204 0.000790527154032 code skip content academic main integrity
+205 0.00111841296777 styles main style mla skip cited citation list content sources citing materials text online works documentation
+206 0.00584430864684 current citation bookmarking & cornell skip blogs alerts content books facebook awareness social table feeds main twitter contents rss
+207 0.000876974551386 skip (toc) alerts content table main contents
+208 0.00584007297553 topic evaluating developing introduction skip books, research content sources citing materials choosing articles finding main resources
+209 0.000747647225168 skip content images main databases, articles,
+210 0.000750869025631 content skip main dissertations
+211 0.000912861401312 audio books, skip materials content books video finding music, main
+212 0.0108821504477 lib skip library content guides, main guides
+213 0.000692298208267 content skip main agriculture
+214 0.000692298208267 content skip main economics
+215 0.000692298208267 content skip main education
+216 0.000692298208267 content skip engineering main
+217 0.000692298208267 environment natural skip content main resources
+218 0.000692298208267 content skip main food nutrition
+219 0.000692298208267 reference skip general content interest main
+220 0.000692298208267 geography, skip content maps spatial main data
+221 0.000692298208267 anthropology skip main content
+222 0.000692298208267 government, law skip content policy main public
+223 0.000692298208267 content skip main history
+224 0.000692298208267 resources, & skip labor content human main employment
+225 0.000692298208267 information skip library content science main
+226 0.000692298208267 literature language skip content main linguistics,
+227 0.000692298208267 content skip main math statistics
+228 0.000692298208267 skip veterinary - content human medicine main
+229 0.000692298208267 content skip main music
+230 0.000692298208267 content skip main philosophy religion
+231 0.000692298208267 content skip main physics astronomy
+232 0.000692298208267 content skip main art architecture
+233 0.000692298208267 content skip main demography population
+234 0.000692298208267 content skip main psychology
+235 0.000692298208267 content skip main writing research
+236 0.000692298208267 content skip main technology science
+237 0.000692298208267 content skip sciences main social
+238 0.000692298208267 development sociology skip content rural main
+239 0.000692298208267 content skip main studies area
+240 0.000692298208267 biographies skip main content
+241 0.000692298208267 current newspapers, skip content magazines main events
+242 0.000692298208267 content skip arts main humanities
+243 0.000692298208267 content information main statistical skip
+244 0.000689327721256 content skip main studies ethnic
+245 0.000692298208267 television skip theater, content main film
+246 0.000692298208267 content skip biology main
+247 0.000692298208267 content skip main management business
+248 0.000692298208267 content skip main chemistry
+249 0.000692298208267 content skip main communications
+250 0.000692298208267 information skip computers content science main
+251 0.00907682707805 consultations appointment skip research content consultation librarians main
+252 0.00050103039097 http://asia.library.cornell.edu/ac/southasia/
+253 0.00446720391886 affordable models alternative publishing [1]
+254 0.00446720391886 management publications copyright faculty
+255 0.00101134283307 list
+256 0.00490429719958 transforming communication scholarly libraries communications home
+257 0.00446720391886 access open
+258 0.00101134283307 senate resolution faculty
+259 0.00446720391886 serials publication scholarly pricing prices crisis
+260 0.0025274378076 articles search skip content tips main page
+261 0.0405658833583 libraries skip main content
+262 0.0004992055514 content skip main
+263 0.0407371151636 content skip main services library
+264 0.0094600306569 content skip borrowing delivery services main
+265 0.00348473688043 content columbia information - privileges borrowing libraries 2cul skip main university
+266 0.00386776540906 skip borrow direct content info... http://www.library.cornell.edu/svcs/borrow/bordir main
+267 0.00346978470301 information procedure change skip library content (guest borrowers) holders main login card
+268 0.000874070089531 checked items content info... skip recall main out
+269 0.00108153373677 content main form skip faq request delivery document electronic
+270 0.000781198775478 content skip main faculty and staff
+271 0.000844456645877 student students skip graduate content policies main
+272 0.00105892176824 information about students skip graduate content see card http://www.library.cornell.edu/svcs/borrow/gradnewstatus library privilege main status) options change (undergoing
+273 0.000989114045483 content skip loan main interlibrary
+274 0.00158948282221 delivery libraries service http://www.library.cornell.edu/svcs/borrow/othercul cornell skip content info... book items main library-to-library
+275 0.000831694513817 content skip borrowers main proxy
+276 0.000784565158034 skip problems content renewing books main
+277 0.000778276799861 content skip main books returning
+278 0.000784565158034 content skip students main undergraduate
+279 0.00758771210557 information materials skip study work disability private contact content services spaces access devices assistive technologies main technology libraries resources
+280 0.000723992404054 content skip http://www.library.cornell.edu/svcs/equipment/other main
+281 0.000720392558816 content skip http://www.library.cornell.edu/svcs/equipment/printing main
+282 0.000548498099864 content skip main
+283 0.00537726060886 students skip graduate content main grad
+284 0.00610787692008 skip library content spaces main select
+285 0.00117128459666 1 all ‹ skip library « content spaces main previous
+286 0.000747225579491 content skip main cafés
+287 0.000747225579491 content skip main auditoriums
+288 0.000747225579491 content skip classrooms main
+289 0.000967463526047 labs http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/39 skip content computer main
+290 0.00099475993909 content group ‹ skip study « 1 rooms http://www.library.cornell.edu/svcs/libraryspaces/libspacesxtype/40 main previous
+291 0.000551015989108 last skip › next content 2 main »
+292 0.000704710400037 1 spaces: room ‹ skip library « content main meeting previous
+293 0.000744430676333 students skip main content
+294 0.000770092765518 1 ‹ skip « content faculty main previous
+295 0.000534106611788 last skip › next content 2 main »
+296 0.000770092765518 staff 1 ‹ skip « content main previous
+297 0.000534106611788 last skip › next content 2 main »
+298 0.000534742582626 last skip › next content 2 main »
+299 0.000671500211708 ‹ skip › next content 2 main previous
+300 0.000671500211708 ‹ skip › next content 3 main previous
+301 0.000671500211708 ‹ skip › next content 4 main previous
+302 0.000671500211708 ‹ skip › next content 5 main previous
+303 0.000671500211708 last skip › next content 6 main »
+304 0.00833984800323 content skip instructors main faculty
+305 0.00583548451977 instruction sessions skip workshops content main
+306 0.001156243564 delivery delivered office skip content info... books offices faculty main
+307 0.00415783563585 skip instructors content course reserves faculty main
+308 0.000717443559768 content skip main printable forms
+309 0.000757245789891 (instructions) skip library general reserves through e-reserve electronic information copyright create placing system content in-library main blackboard processing about g items processin list reserve
+310 0.000757245789891 articles openurl links cornell-restricted skip create library linking content how individual databases e-journals main resources
+311 0.0071991834471 publishing copyright skip publishing, scholarly content mangement digital digitization, main digitization
+312 0.0022659373156 content skip main practices social-networking
+313 0.00124227213447 skip instruction coordinator. content coordinator contact main
+314 0.000620838760664 1 ‹ skip « content main previous
+315 0.000620838760664 ‹ skip › next content 2 main previous
+316 0.000620838760664 ‹ skip › next content 3 main previous
+317 0.000620838760664 ‹ skip › next content 4 main previous
+318 0.000620838760664 last skip › next content 5 main »
+319 0.000501700111769 content skip main
+320 0.00079944646114 content skip main copyright
+321 0.00079944646114 self-service digitization scanning skip content facilities main
+322 0.00079944646114 & skip content equipment main software
+323 0.00079944646114 content skip faq main
+324 0.00079944646114 content skip support main research
+325 0.00321387356767 web skip research content visual main tools page resources
+326 0.00256697476817 search skip content catalog tips main
+327 0.000676654439174 http://www.library.cornell.edu/wheredoi/software.html
